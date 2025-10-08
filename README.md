@@ -1,16 +1,21 @@
-## Hi there 👋
+# 👋 Hi there, I'm Abdelghani ALLAOUA!
 
-<!--
-**AllaouaA/allaouaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm a passionate DevOps engineer based in Grenoble 🏔️
 
-Here are some ideas to get you started:
+## 🚀 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I'm currently working as a DevOps engineer for Eviden
+- 🌱 I'm constantly learning new technologies
+- 🎯 Always looking for new challenges and collaborations
+
+## 📫 Get In Touch
+
+- 💼 LinkedIn: [Abdelghani ALLAOUA](https://linkedin.com/in/allaouaa)
+- 📧 Email: allaoua.ghani@gmail.com
+- 🌐 Portfolio: [devsips.com](https://devsips.com)
+
+---
+
+💬 Feel free to reach out to collaborate on interesting projects!
+
+![Profile Views](https://komarev.com/ghpvc/?username=allaouaa&color=blueviolet)
