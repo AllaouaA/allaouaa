@@ -10,9 +10,9 @@ Welcome to my GitHub profile! I'm a passionate DevOps engineer based in Grenoble
 
 ## 📫 Get In Touch
 
-- 💼 LinkedIn: [Abdelghani ALLAOUA](https://linkedin.com/in/allaouaa)
+- 💼 LinkedIn: [Abdelghani ALLAOUA](https://linkedin.com/in/aallaoua)
 - 📧 Email: allaoua.ghani@gmail.com
-- 🌐 Portfolio: [devsips.com](https://devsips.com)
+- 🌐 Blog: [devsips.com](https://devsips.com)
 
 ---
 
