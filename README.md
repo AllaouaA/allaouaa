@@ -1,10 +1,10 @@
 # 👋 Hi there, I'm Abdelghani ALLAOUA!
 
-Welcome to my GitHub profile! I'm a passionate DevOps engineer based in Grenoble 🏔️
+Welcome to my GitHub profile! I'm a passionate DevOps engineer based in Grenoble, France 🏔️
 
 ## 🚀 About Me
 
-- 🔭 I'm currently working as a DevOps engineer for Eviden
+- 🔭 I'm currently working as a DevOps engineer
 - 🌱 I'm constantly learning new technologies
 - 🎯 Always looking for new challenges and collaborations
 
